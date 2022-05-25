@@ -37,7 +37,7 @@ style_duo_accent(
   inverse_header_color = "#FFFFFF"
 )
 ```
-
+---
 **Aquaponics** is the *integration* of recirculating **aquaculture** and **hydroponics** in one production system. Although the production of fish and vegetables is the most visible output of aquaponic units, aquaponics is the management of a complete ecosystem that includes three major groups of organisms: fish, plants and bacteria. 
 
 
