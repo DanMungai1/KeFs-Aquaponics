@@ -45,12 +45,20 @@ style_duo_accent(
 ---
 # System balance
 
-*Aquaponic* systems need to be **balanced**. The fish (and thus, fish feed) need to supply adequate *nutrients* for the plants. The plants need to filter the water for the fish. The **biofilter** needs to be large enough to process all of the fish wastes, and **enough water volume** is needed to circulate this system.
+*Aquaponic* systems need to be **balanced**. 
+
+The fish (and thus, fish feed) need to supply adequate *nutrients* for the plants. 
+
+The plants need to filter the water for the fish.
+
+The **biofilter** needs to be large enough to process all of the fish wastes, and **enough water volume** is needed to circulate this system.
 
 
 ---
 # Facts
-- On average, the fish will consume 1 to 2 percent of their body weight per day during the grow-out stage. This assumes that the fish are larger than 50 g because small fish eat more than large ones, as a percentage of body weight
+- On average, the fish will consume 1 to 2 percent of their body weight per day during the grow-out stage.
+
+This assumes that the fish are larger than 50 g because small fish eat more than large ones, as a percentage of body weight
 
 - The recommended maximum stocking density is 20 kg of fish for 1 000 litres of water (fish tank).
 
@@ -60,7 +68,11 @@ style_duo_accent(
 ---
 # Management practices for fish
 
-It is best to wait until the initial cycling process is totally completed and the biofilter is fully functioning to add the fishes to the system. If it is decided to add fish before cycling, then a reduced number of fish should be added. This time will be very stressful for the fish, and water changes may be necessary
+It is best to wait until the initial cycling process is totally completed and the biofilter is fully functioning to add the fishes to the system. 
+
+If it is decided to add fish before cycling, then a reduced number of fish should be added. 
+
+This time will be very stressful for the fish, and water changes may be necessary
 
 Species suitable for aquaponic farming include tilapia, common carp, silver carp, catfish, trout.
 
@@ -73,7 +85,9 @@ If the pH values are more than 0.5 different, then the fish will need at least 2
 
 Keep the fish in a small aerated tank of their original water and slowly add water from the new tank over the course of a day
 
-Slowly allow the temperature to equilibrate by floating the sealed transportation bags containing the fish in the culture water. This should be done for at least 15 minutes. 
+Slowly allow the temperature to equilibrate by floating the sealed transportation bags containing the fish in the culture water.
+
+This should be done for at least 15 minutes. 
 ---
 # Fish feeding and growth rates
 
@@ -83,11 +97,14 @@ During the grow-out stage of the fish, it is recommended a fish feeding rate of 
 
 Considering a fish stocking density of 10 to 20 kg per 1 000 litres, 200 g of feed per day can be provided.
 
-During the first two to three months, the fish are small (50 grams weight for a fingerling tilapia) and eat about 3 percent of their body weight per day. Therefore, an initial stocking of 40 fingerlings would weigh 2 000 g, and together they would eat approximately 60 g of fish feed per day.
+During the first two to three months, the fish are small (50 grams weight for a fingerling tilapia) and eat about 3 percent of their body weight per day. 
+
+Therefore, an initial stocking of 40 fingerlings would weigh 2 000 g, and together they would eat approximately 60 g of fish feed per day.
 
 
-After two to three months feeding at this rate, the 40 fish will have grown to 80 to 100 grams each and weigh a total of 3 200 to 4 000 g. At this point, they should be able to eat 80 to 100 g of feed per day.
+After two to three months feeding at this rate, the 40 fish will have grown to 80 to 100 grams each and weigh a total of 3 200 to 4 000 g.
 
+At this point, they should be able to eat 80 to 100 g of feed per day.
 
 Make sure to divide the feeding into morning and afternoon rations. Moreover, juvenile fish benefit from an additional lunch–time feeding.
 
@@ -98,7 +115,9 @@ Spread the feed across the entire surface of the water so all the fish can eat w
 
 Avoid scaring the fish during feeding by refraining from sudden movements. Stand still and observe the fish.
 
-Always remove any uneaten fish food after 30 minutes, and adjust the next feeding ration accordingly. If there is no food left after 30 minutes, increase the ration. If there is a lot left, decrease the ration.
+Always remove any uneaten fish food after 30 minutes, and adjust the next feeding ration accordingly. 
+
+If there is no food left after 30 minutes, increase the ration. If there is a lot left, decrease the ration.
 
 ## Fish health
 
@@ -132,7 +151,9 @@ The three major groups of pathogens that cause fish disease are fungus, bacteria
 
 All of these pathogens can easily enter an aquaculture system from the environment, when adding new fish or new water, or could have previously existed in the unit. 
 
-Prevention is by far the best way to prevent disease in fish. Daily observation of fish and monitoring for disease allows the disease, if present, to be treated quickly to prevent more fish from being infected.
+Prevention is by far the best way to prevent disease in fish. 
+
+Daily observation of fish and monitoring for disease allows the disease, if present, to be treated quickly to prevent more fish from being infected.
 
 If a significant percentage of fish are showing signs of disease, it is likely that the environmental conditions are causing stress. 
 
@@ -142,9 +163,15 @@ If only a few fish are affected, it is important to remove the infected fish imm
 
 ---
 # Management of pests and diseases
-One effective treatment options against some of the most common bacterial and parasite infections is a salt bath. Infected fish can be removed from the main fish tank and placed into a salt bath. 
+One effective treatment options against some of the most common bacterial and parasite infections is a salt bath.
 
-This salt bath is toxic to the pathogens, but non-fatal to the fish. The salt concentration for the bath should be 1 kg of salt per 100 litres of water. Affected fish should be placed in this salty solution for 20 to 30 minutes, and then moved to a second isolation tank containing 1 to 2 g of salt per litre of water for another five to seven days. 
+Infected fish can be removed from the main fish tank and placed into a salt bath. 
+
+This salt bath is toxic to the pathogens, but non-fatal to the fish. 
+
+The salt concentration for the bath should be 1 kg of salt per 100 litres of water. 
+
+Affected fish should be placed in this salty solution for 20 to 30 minutes, and then moved to a second isolation tank containing 1 to 2 g of salt per litre of water for another five to seven days. 
 
 The heating of the water in the aquaponic system can also shorten the parasite life cycle and make the salt treatment more effective.
 ---
@@ -152,11 +179,17 @@ The heating of the water in the aquaponic system can also shorten the parasite l
 
 A constant biomass of fish in the tanks ensures a constant supply of nutrients to the plants. 
 
-To achieve a constant biomass in the fish tanks, a staggered stocking method should be adopted. This technique involves maintaining three age classes, or cohorts, within the same tank.
+To achieve a constant biomass in the fish tanks, a staggered stocking method should be adopted. 
 
-Approximately every three months, the mature fish (500 g each) are harvested and immediately restocked with new fingerlings (50 g each). This method avoids harvesting all the fish at once, and instead retains a more consistent biomass. 
+This technique involves maintaining three age classes, or cohorts, within the same tank.
 
-If it is not possible to obtain fingerlings regularly, an aquaponic system can be still managed by stocking a higher number of juvenile fish and by progressively harvesting them during the season to maintain a stable biomass to fertilize the plants. If the fish are mixed–sex, the harvest must firstly target the females to avoid breeding when they reach sexual maturity from the age of five months.
+Approximately every three months, the mature fish (500 g each) are harvested and immediately restocked with new fingerlings (50 g each).
+
+This method avoids harvesting all the fish at once, and instead retains a more consistent biomass. 
+
+If it is not possible to obtain fingerlings regularly, an aquaponic system can be still managed by stocking a higher number of juvenile fish and by progressively harvesting them during the season to maintain a stable biomass to fertilize the plants. 
+
+If the fish are mixed–sex, the harvest must firstly target the females to avoid breeding when they reach sexual maturity from the age of five months.
 ---
 ## Routine management practices
 ###  Daily activities
@@ -204,21 +237,28 @@ any filters.
 - Weigh a sample of fish and check thoroughly for any disease.
 ---
 # Management practices for plants
-Seedlings can be planted into the system as soon as nitrates are detected. Expect these first plants to grow slowly and exhibit some temporary deficiencies because the nutrient supply in the water is temporarily small. 
+Seedlings can be planted into the system as soon as nitrates are detected.
+
+Expect these first plants to grow slowly and exhibit some temporary deficiencies because the nutrient supply in the water is temporarily small. 
 
 **It is recommended to wait three to four weeks to allow the nutrients to accumulate.**
 
 ## Plant Selection
 
-It is best to start a new aquaponic system with fast-growing robust plants with a low nutrient demand. Some examples are leafy green vegetables, such as salads, or nitrogen fixing plants, such as beans or peas. 
+It is best to start a new aquaponic system with fast-growing robust plants with a low nutrient demand. 
+
+Some examples are leafy green vegetables, such as salads, or nitrogen fixing plants, such as beans or peas. 
 
 After two to three months, the system is ready for larger fruiting vegetables that demand a greater amount of nutrients
 ---
 #  Plant spacing
 Seedlings can be planted using a slightly denser spacing than for most vegetables in soil because in aquaponics the plants do not compete for water and nutrients. 
 
-Some new aquaponic units experience iron deficiencies in the first two to three months of growing as iron is important during the early stages of plant growth and is not abundant in fish feed. Thus, it may be necessary to initially add chelated iron (soluble iron in powder form) to the unit to meet the requirements for plants. The recommendation is to add 1 to 2 mg per litre for the first three months of starting a unit,
+Some new aquaponic units experience iron deficiencies in the first two to three months of growing as iron is important during the early stages of plant growth and is not abundant in fish feed.
 
+Thus, it may be necessary to initially add chelated iron (soluble iron in powder form) to the unit to meet the requirements for plants.
+
+The recommendation is to add 1 to 2 mg per litre for the first three months of starting a unit,
 
 Iron can also be supplemented by using aquaponics-safe organic fertilizers such as compost or seaweed tea, as iron is abundant in both.
 ---
