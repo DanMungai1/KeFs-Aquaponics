@@ -235,7 +235,7 @@ Deficiencies often occur when there are too many plants for the number of fish, 
 # Harvesting plants
 
 In one to two months, leafy green vegetables should be ready to harvest. After three months, the unit should also have enough of a nutrient base to begin planting larger fruiting vegetables. 
----
+
 ## Staggered planting and harvesting
 
 It is worth staggering the planting over time in order to prevent harvesting the entire crop all at once. 
@@ -243,6 +243,15 @@ It is worth staggering the planting over time in order to prevent harvesting the
 If this were to happen, nutrient levels would decrease just before harvest, which might create nutritional problems for the plants, and spike after the harvest, which would stress the fish. 
 
 Staggered planting allows for continual harvest and transplant of vegetables and ensures constant nutrient uptake and water filtration.
+---
+## Pests and disease
+Be sure to try to prevent pests using the integrated production and pest management (IPPM) techniques (e.g. physical barriers, trapping, companion planting, crop rotation, among others). 
+
+If pests remain a problem, begin by using the mechanical removal techniques before considering sprays. 
+
+Only use aquaponic‑safe remedies, such as plant extracts or repellents, biological insecticides (Bacillus thuringiensis and Beauveria bassiana), soft soaps, ash, plant oils or extracts of essential oils, chromatic/attractant traps, and external attractant plants treated with insecticides.
+
+Regardless, avoid letting the spray enter the water
 ---
 ## Harvesting approaches
 
@@ -253,16 +262,6 @@ In addition, shake the gravel stuck in between the roots and place the gravel ba
 Place the discarded plant roots into a compost bin to recycle the plant waste. Leaving roots and leaves in the system can encourage disease. 
 
 When harvesting vegetables use a sharp clean knife. To prevent any bacteria contamination, ensure that aquaponic water does not wet the leaves.
-
----
-## Pests and disease
-Be sure to try to prevent pests using the integrated production and pest management (IPPM) techniques (e.g. physical barriers, trapping, companion planting, crop rotation, among others). 
-
-If pests remain a problem, begin by using the mechanical removal techniques before considering sprays. 
-
-Only use aquaponic‑safe remedies, such as plant extracts or repellents, biological insecticides (Bacillus thuringiensis and Beauveria bassiana), soft soaps, ash, plant oils or extracts of essential oils, chromatic/attractant traps, and external attractant plants treated with insecticides.
-
-Regardless, avoid letting the spray enter the water
 
 ---
 ## Follow seasonal planting advice
