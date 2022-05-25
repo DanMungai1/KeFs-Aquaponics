@@ -88,7 +88,7 @@ Keep the fish in a small aerated tank of their original water and slowly add wat
 Slowly allow the temperature to equilibrate by floating the sealed transportation bags containing the fish in the culture water.
 
 This should be done for at least 15 minutes. 
----
+
 # Fish feeding and growth rates
 
 The feed rate ratio provides a way to balance the components of an aquaponic system, and to calculate planting area, fish feed, and fish biomass.
