@@ -47,10 +47,6 @@ style_duo_accent(
 
 *Aquaponic* systems need to be **balanced**. The fish (and thus, fish feed) need to supply adequate *nutrients* for the plants. The plants need to filter the water for the fish. The **biofilter** needs to be large enough to process all of the fish wastes, and **enough water volume** is needed to circulate this system.
 
-The ratio estimates determine how much fish feed should be added each day to the system, and it is calculated based on the area available for plant growth. This ratio depends on the type of plant being 
-grown; fruiting vegetables require about one-third more nutrients than leafy greens to support flowers and fruit development. 
-
-The type of feed also influences the feed rate ratio.
 
 ---
 # Facts
@@ -60,22 +56,20 @@ The type of feed also influences the feed rate ratio.
 
 - Higher stocking densities require more sophisticated aeration techniques to keep the DO levels stable for fish, as well as a more complex filtration system to deal with the solid waste
 
-- The recommended fish density is based on a maximum stocking density of 20 kg per 1 000 litres.
-
-- The recommended feeding rate is 1 percent of body weight per day for fish of more than 100 g of body mass
-
-- The volumes for mechanical separator and biofilter should be 10 to 30 percent of total fish tank volume. 
-
 **Disease, nutritional deficiencies and death are symptoms of an unbalanced system. Water testing will provide information on the balance of the system. High ammonia or nitrite indicates insufficient biofiltration. Low nitrate indicates too many plants or not enough fish.**
 ---
 # Management practices for fish
 
 It is best to wait until the initial cycling process is totally completed and the biofilter is fully functioning to add the fishes to the system. If it is decided to add fish before cycling, then a reduced number of fish should be added. This time will be very stressful for the fish, and water changes may be necessary
 
-Species suitable for aquaponic farming include tilapia, common carp, silver carp, grass carp, barramundi, jade perch, catfish, trout, salmon, Murray cod, and largemouth bass.
+Species suitable for aquaponic farming include tilapia, common carp, silver carp, catfish, trout.
 
 # Acclimatizing fish
-There are two main factors that cause stress when acclimatizing fish: changes in temperature and pH between the original water and new water. If the pH values are more than 0.5 different, then the fish will need at least 24 hours to adjust. 
+There are two main factors that cause stress when acclimatizing fish: 
+
+- changes in temperature and pH between the original water and new water.
+
+If the pH values are more than 0.5 different, then the fish will need at least 24 hours to adjust. 
 
 Keep the fish in a small aerated tank of their original water and slowly add water from the new tank over the course of a day
 
@@ -85,7 +79,9 @@ Slowly allow the temperature to equilibrate by floating the sealed transportatio
 
 The feed rate ratio provides a way to balance the components of an aquaponic system, and to calculate planting area, fish feed, and fish biomass.
 
-During the grow-out stage of the fish, it is recommended a fish feeding rate of 1 to 2 percent of their body weight per day. Considering a fish stocking density of 10 to 20 kg per 1 000 litres, 200 g of feed per day can be provided.
+During the grow-out stage of the fish, it is recommended a fish feeding rate of 1 to 2 percent of their body weight per day.
+
+Considering a fish stocking density of 10 to 20 kg per 1 000 litres, 200 g of feed per day can be provided.
 
 During the first two to three months, the fish are small (50 grams weight for a fingerling tilapia) and eat about 3 percent of their body weight per day. Therefore, an initial stocking of 40 fingerlings would weigh 2 000 g, and together they would eat approximately 60 g of fish feed per day.
 
@@ -93,10 +89,14 @@ During the first two to three months, the fish are small (50 grams weight for a 
 After two to three months feeding at this rate, the 40 fish will have grown to 80 to 100 grams each and weigh a total of 3 200 to 4 000 g. At this point, they should be able to eat 80 to 100 g of feed per day.
 
 
-Make sure to divide the feeding into morning and afternoon rations. Moreover, juvenile fish benefit from an additional lunch–time feeding. Splitting the ration is healthier for the fish and also healthier for the plants, providing an even distribution of nutrients throughout the day
+Make sure to divide the feeding into morning and afternoon rations. Moreover, juvenile fish benefit from an additional lunch–time feeding.
+
+Splitting the ration is healthier for the fish and also healthier for the plants, providing an even distribution of nutrients throughout the day
 
 ---
-Spread the feed across the entire surface of the water so all the fish can eat without injuring one another or hitting the side of the tank. Avoid scaring the fish during feeding by refraining from sudden movements. Stand still and observe the fish.
+Spread the feed across the entire surface of the water so all the fish can eat without injuring one another or hitting the side of the tank.
+
+Avoid scaring the fish during feeding by refraining from sudden movements. Stand still and observe the fish.
 
 Always remove any uneaten fish food after 30 minutes, and adjust the next feeding ration accordingly. If there is no food left after 30 minutes, increase the ration. If there is a lot left, decrease the ration.
 
@@ -110,7 +110,7 @@ The best time to observe fish is during their daily feeding, both before and aft
 
 - Fins are extended, tails are straight.
 
--Swimming in normal, graceful patterns. No lethargy. However, catfish often sleep on the bottom until they wake up and begin feeding.
+- Swimming in normal, graceful patterns. No lethargy. However, catfish often sleep on the bottom until they wake up and begin feeding.
 
 - Strong appetite and not shying away at the presence of the feeder.
 
@@ -141,7 +141,7 @@ In these cases, check the levels of ammonia, nitrite, nitrate, pH and temperatur
 If only a few fish are affected, it is important to remove the infected fish immediately in order to prevent any spread of the disease to other fish.
 
 ---
-# Management
+# Management of pests and diseases
 One effective treatment options against some of the most common bacterial and parasite infections is a salt bath. Infected fish can be removed from the main fish tank and placed into a salt bath. 
 
 This salt bath is toxic to the pathogens, but non-fatal to the fish. The salt concentration for the bath should be 1 kg of salt per 100 litres of water. Affected fish should be placed in this salty solution for 20 to 30 minutes, and then moved to a second isolation tank containing 1 to 2 g of salt per litre of water for another five to seven days. 
@@ -221,7 +221,17 @@ Some new aquaponic units experience iron deficiencies in the first two to three 
 
 
 Iron can also be supplemented by using aquaponics-safe organic fertilizers such as compost or seaweed tea, as iron is abundant in both.
+---
+## Plant nutrition
 
+Successful aquaponic systems are balanced. The feed rate ratio is the main guideline to balance the amount of fish feed to plant growing area, which is measured in grams of daily feed per square metre of plant growing space. 
+
+The feed rate ratio for leafy vegetables is 20 to 50 g per m² daily; fruiting vegetables require 50 to 80 g per m² daily
+
+If deficiencies do occur, it is necessary to add outside nutrients. Organic liquid fertilizer can be used as either diluted foliar feed for plant leaves or poured straight into the root zone. 
+
+Deficiencies often occur when there are too many plants for the number of fish, or when feeding is reduced.
+---
 # Harvesting plants
 
 In one to two months, leafy green vegetables should be ready to harvest. After three months, the unit should also have enough of a nutrient base to begin planting larger fruiting vegetables. 
@@ -243,16 +253,7 @@ In addition, shake the gravel stuck in between the roots and place the gravel ba
 Place the discarded plant roots into a compost bin to recycle the plant waste. Leaving roots and leaves in the system can encourage disease. 
 
 When harvesting vegetables use a sharp clean knife. To prevent any bacteria contamination, ensure that aquaponic water does not wet the leaves.
----
-## Plant nutrition
 
-Successful aquaponic systems are balanced. The feed rate ratio is the main guideline to balance the amount of fish feed to plant growing area, which is measured in grams of daily feed per square metre of plant growing space. 
-
-The feed rate ratio for leafy vegetables is 20 to 50 g per m² daily; fruiting vegetables require 50 to 80 g per m² daily
-
-If deficiencies do occur, it is necessary to add outside nutrients. Organic liquid fertilizer can be used as either diluted foliar feed for plant leaves or poured straight into the root zone. 
-
-Deficiencies often occur when there are too many plants for the number of fish, or when feeding is reduced.
 ---
 ## Pests and disease
 Be sure to try to prevent pests using the integrated production and pest management (IPPM) techniques (e.g. physical barriers, trapping, companion planting, crop rotation, among others). 
